@@ -1,4 +1,4 @@
-# If life gives u lemon,make lemonade
+# If life gives u a lemon,make lemonade
 
 [![Katono5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katono5&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
