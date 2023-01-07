@@ -45,9 +45,7 @@ Here are some ideas to get you started:-->
 ### 🔡 My Top Languages
 <br>
 <p align="center" >  
-  <a href="https://github.com/katono5/github-readme-stats"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katono5&show_icons=true&theme=dracula"/>
-  </a>
   </p>
 
 
