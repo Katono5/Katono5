@@ -62,7 +62,7 @@ Here are some ideas to get you started:-->
 ![](https://img.shields.io/badge/--purple?logo=Firefox&style=for-the-badge)
 
 ## 📫 Say hello: 
-<a href="https://www.linkedin.com/in/akshatcoder/">
+<a href="https://www.linkedin.com/in/katono5/">
 <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-f2f478?logo=LinkedIn&logoColor=2a6f96&style=for-the-badge">
  </a>
 </a>
