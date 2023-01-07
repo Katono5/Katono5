@@ -40,12 +40,11 @@ Here are some ideas to get you started:-->
   
 </div> 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=akshatcoder-hash&theme=react-dark&bg_color=00000000&color=ff7a0d&line=ffb300&point=ff7a0d&area=true&hide_border=true&area_color=F6C819"><br>
-
-
-![ ](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/overview.svg)
-![ ](https://github.com/akshatcoder-hash/github-stats/blob/master/generated/languages.svg)
-
+<p align="center" >  
+  <a href="https://github.com/hippyaki/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katono5&show_icons=true&theme=dracula"/>
+  </a>
+  </p>
 
 
 
