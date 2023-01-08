@@ -48,6 +48,7 @@ Here are some ideas to get you started:-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katono5&show_icons=true&theme=dracula"/>
   </p>
 
+---
 
 ## 🧰 My Toolbox:
 ![intellij%20idea%20ultimate](https://img.shields.io/badge/-intellij%20idea%20ultimate-black?logo=IntelliJ%20IDEA&logoColor=dc14d0&style=for-the-badge)
